@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Bluegrass.Menu.EFRepository\Bluegrass.Menu.EFRepository.csproj" />
+    <ProjectReference Include="..\Bluegrass.Menu.Models\Bluegrass.Menu.Models.csproj" />
+  </ItemGroup>
+
+</Project>
