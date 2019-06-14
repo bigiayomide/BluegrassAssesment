@@ -1,10 +1,10 @@
-﻿##Requirements:
+﻿## Requirements:
 1) SQL Server localDB/ Express
 2) .NET Core 2.2
 
-Instructions:
+## Instructions:
 
-1) clone the repo from: https://gitlab.com/Innocentz/addressbook.git
+1) clone the repo from: https://github.com/bigiayomide/BluegrassAssesment.git
 2) Create an BluegrassMenuDB database on localDB/ or any sql instance.
 3) Restore the test database from the BluegrassMenuDB.bak included in the source files
 4) open the Bluegrass.Menu.API project and change the connection string to your database's connection.
